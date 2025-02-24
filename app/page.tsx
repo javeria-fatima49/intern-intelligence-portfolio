@@ -199,12 +199,12 @@ export default function HomePage() {
       <div className="flex gap-4">
         <button className="rounded-full animate-bounce">
           <Link href="https://github.com/javeria-fatima49" target="_blank">
-            <FontAwesomeIcon icon={faGithub} size="2x" className=" "/>
+            <FontAwesomeIcon icon={faGithub} size="2x" />
           </Link>
         </button>
         <button   className="rounded-full  animate-bounce" >
           <Link href="https://www.linkedin.com/in/javeria-fatima-5414a330b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDkXLXNMJQU2KvpnVM5TKCg%3D%3D" >
-            <FontAwesomeIcon icon={faLinkedin} size="2x" className=" bg-slate-800"/>
+            <FontAwesomeIcon icon={faLinkedin} size="2x" />
           </Link>
         </button>
       </div>
